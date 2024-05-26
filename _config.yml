@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ASPA - LIFE"
+title                    : "About Us"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "aspa-life.github.io"
 author:
   # Biographic information
   avatar           : "logo.png"
-  name             : "ASPA"
-  pronouns         : # example: "she/her"  
+  name             : "aspa.life"
+  pronouns         :  
   bio              : ""
   location         : "Earth"
   employer         : "Red Brick University"

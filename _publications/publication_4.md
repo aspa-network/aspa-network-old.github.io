@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/publication_4
 date: 2022
 venue: 'Environmental Research Letters'
-paperurl: 'https://arxiv.org/pdf/2008.02901'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1748-9326/ac6762/pdf'
 citation: 'Cortés-Andrés, J., Camps-Valls, G., Sippel, S., Székely, E., Sejdinovic, D., Diaz, E., Pérez-Suay, A., Li, Z., Mahecha, M. and Reichstein, M., (2022). &quot; Physics-aware nonparametric regression models for Earth data analysis.&quot; <i>Environmental Research Letters</i>, 17(5), p.054034.'
 ---

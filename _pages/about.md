@@ -19,9 +19,6 @@ redirect_from:
 
 ## Fundraising Details:
 
-## Academic Papers
-
-## Codebase:
-# aspa.life Client user journey:
+## aspa.life Client user journey:
 
 ## Videos and events

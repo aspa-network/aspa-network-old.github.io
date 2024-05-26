@@ -2,7 +2,6 @@
 title: "Towards a unified analysis of random Fourier features"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2019-05-24
 venue: 'International conference on machine learning'
 paperurl: 'https://proceedings.mlr.press/v97/li19k.html'

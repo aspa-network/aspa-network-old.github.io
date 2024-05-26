@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---                                                                                    
 ## Pitch Deck:
-[ASPA-LIFE Pitch Deck](https://docsend.com/view/vq4ymdpy8ctpnr5i)
+[aspa.life Pitch Deck](https://docsend.com/view/vq4ymdpy8ctpnr5i)
 
 ## aspa.life Tokenomics:
 

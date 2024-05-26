@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ASPA-Life"
+title: "About us"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,19 +9,19 @@ redirect_from:
 ## Pitch Deck:
 [ASPA-LIFE Pitch Deck](https://docsend.com/view/vq4ymdpy8ctpnr5i)
 
-## ASPA-life Tokenomics:
+## aspa.life Tokenomics:
 
 ## Tech Docs:
 
 ## Use case: Co-creation platform
 
-## ASPA-life Validator and Subnets
+## aspa.life Validator and Subnets
 
 ## Fundraising Details:
 
 ## Academic Papers
 
 ## Codebase:
-# ASPA-life Client user journey:
+# aspa.life Client user journey:
 
 ## Videos and events

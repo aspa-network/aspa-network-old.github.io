@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Resources"
+  - title: "Publications"
     url: /publications/
 
-  # - title: "Member"
-  #   url: /talks/    
+  - title: "Code Base"
+    url: /code_base/    

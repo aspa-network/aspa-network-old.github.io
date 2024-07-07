@@ -1,5 +1,5 @@
 ---
-title: "[AlgorithmGPT](https://github.com/aspa-life/AlgorithmGPT)"
+title: "[AlgorithmGPT](https://github.com/aspa-network/AlgorithmGPT)"
 collection: code_base
 permalink: /code_base/public_AlgorithmGPT
 excerpt: '

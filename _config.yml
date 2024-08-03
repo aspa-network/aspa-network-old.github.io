@@ -21,7 +21,7 @@ repository               : "aspa-network/aspa-network.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo.png"
+  avatar           : "logo_new.png"
   name             : ""
   pronouns         :  
   bio              : ""
